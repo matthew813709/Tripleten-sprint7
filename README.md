@@ -1,4 +1,4 @@
-# A study utilizing Random Forest models, Decision Tree models, F1 scores, Precision scores, and Accuracy scores and the Training and Test sets.
+# A study utilizing Random Forest models, Decision Tree models, F1 scores, Precision scores, and Accuracy scores.
 
 ## <strong> Development Environment: </strong> ## 
 Visual Studio Code Version 1.88.1 & Anaconda3 (Python 3.11.7)
